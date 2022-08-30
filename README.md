@@ -50,7 +50,8 @@
               <div>
                 <p>...</p>
                 <h5 id="scrollspyHeading3">capacidad</h5>
-                <p>...</p
+                 <p>...</p>
+
                     <iframe title="reporte de juan medina - Página 1" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZWVkZmQ5ZGEtNjY5NS00Yzg0LTkwNTktZTQyYjhkMmM1NDg4IiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9" frameborder="0" allowFullScreen="true"></iframe>
                   </div>
               <nav id="navbar-example2" class="navbar bg-light px-3 mb-3"></nav>
