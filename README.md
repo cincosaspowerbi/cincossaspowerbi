@@ -50,8 +50,7 @@
               <div>
                 <p>...</p> 
                  <h5>capacidadees<h5
-                    <p>...</p>
-                   <iframe title="base nueva juan montes" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYmEwNjUyMTEtOWNjMy00NTkzLTkxODAtYmI0MDA4NzQ0YmJmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection5184c32a59dbe330ce93" frameborder="0" allowFullScreen="true"></iframe>
+                    <p>...</p><iframe title="capcidades" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNjM3ZjZkNjAtMDIzOC00MWI2LWFlN2EtMDUzOGIwOGMxZjE1IiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&embedImagePlaceholder=true&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
                  <div/> 
               <nav id="navbar-example2" class="navbar bg-light px-3 mb-3"></nav>
              </div>
