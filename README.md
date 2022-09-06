@@ -47,7 +47,10 @@
                 <p>...</p>
                 <iframe title="base residencial Nueva" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2Y2ZjODYtYjRkZi00OTZmLWE0NDQtY2Y1Y2Y4ZGNkOTdmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
               </div>
-              <div
+              <di>
+                  <p>...</p>
+                  <h5>capacidad</h5>
+                  <p>...</p>
                    <iframe title="cinco capacidad" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZmE0YTVlM2EtMGRlMy00NTJjLWFjOWMtYWUxYWFmMDQzYTJhIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
                      <div/> 
               <nav id="navbar-example2" class="navbar bg-light px-3 mb-3"></nav>
