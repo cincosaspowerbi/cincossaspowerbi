@@ -45,7 +45,7 @@
                 <p>...</p>
                 <h4 id="scrollspyHeading3">base residencial</h4>
                 <p>...</p>
-                <iframe title="base residencial Nueva" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2Y2ZjODYtYjRkZi00OTZmLWE0NDQtY2Y1Y2Y4ZGNkOTdmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="base residencial Nueva" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2Y2ZjODYtYjRkZi00OTZmLWE0NDQtY2Y1Y2Y4ZGNkOTdmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe
               </div>
               <di>
                   <p>...</p>
